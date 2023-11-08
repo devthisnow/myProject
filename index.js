@@ -1,6 +1,6 @@
 "use strict";
 
-const prompt = require("prompt-sync")();
+//const prompt = require("prompt-sync")();
 
 let vasya = { name: "Вася", age: 25 };
 let petya = { name: "Петя", age: 30 };
